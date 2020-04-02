@@ -2,7 +2,7 @@
 Plasma in 115 bytes for DOS in FASM
 
 ## seriously why
-Just because it's fun to get into FASM, write some old x86 code and try to achieve what the old demosceners did.
+Just because it's fun to get into FASM, write some x86 code and try to achieve what the old demosceners did.
 
 ### literally what
 This is really two tasks, 1) do a plasma in 16-bit assembly 2) make it tiny. So far I can't see a way to get it smaller than 115 bytes without losing quality but I keep trying.
